@@ -1,0 +1,15 @@
+{
+  "name": "typescript-quick-ref-guide",
+  "version": "1.0.0",
+  "description": "TypeScript is a strongly typed programming language that builds on JavaScript, adding static typing, interfaces, and modern features to enhance scalability and maintainability. It is a superset of JavaScript, meaning any valid JavaScript code is also valid TypeScript. TypeScript compiles down to JavaScript, making it compatible with browsers and Node.js environments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
