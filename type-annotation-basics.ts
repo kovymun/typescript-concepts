@@ -1,5 +1,10 @@
-// Basic Type Annotations in TypeScript
+/* TypeScript: Type Annotations */
 
+/**
+ * Type annotations in TypeScript are a way to explicitly specify the data type of a variable, function parameter, or return value to catch errors and improve code readability.
+ */
+
+// Basic Type Annotations in TypeScript
 //Syntax
 // identifier: type = value;
 
