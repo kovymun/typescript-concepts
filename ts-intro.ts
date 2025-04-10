@@ -1,4 +1,4 @@
-// Introduction to TypeScript
+/* Introduction to TypeScript */
 
 /**
  * Traditionally, JavaScript is a dynamically typed programming language, meaning type and error checking occur at runtime when the program executes.
